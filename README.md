@@ -1,2 +1,1 @@
-# French-fries-recipe
-Yummy
+this is my fries recipe
